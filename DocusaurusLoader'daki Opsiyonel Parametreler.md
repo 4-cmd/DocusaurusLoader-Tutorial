@@ -68,7 +68,7 @@ Temizleme işleminin kapsamı gereğinden geniş tutulursa LLM için gerekli iç
 
 ------------------------------------------------------------------------
 
-### 🚫 Hata: `parsing_function` Parametresinin Birden Fazla Kez Aktarılması
+### ❓ `parsing_function` Parametresi Nasıl Aktarılmalı
 
 Geliştirme aşamasında gerçekleştirilen testler sonucunda, `parsing_function` parametresinin doğrudan `DocusaurusLoader` constructor metoduna aktarılması sırasında aşağıdaki hatayla karşılaşılmıştır:
 
